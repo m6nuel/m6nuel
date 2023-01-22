@@ -2,12 +2,12 @@
 
 
 Habilidades:
-- JavaScript
+- JavaScript [<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='linkedin' height='20'>]
 - ReactJs
 - Redux
 - NodeJs
 - Express
-- PostgreSQL <img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg(https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)' alt='postgresql' height='20'>
+- PostgreSQL <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg' alt='postgresql' height='20'>
 - Sequelize
 - 🌱 Estoy aprendiendo **kotlin**, **java**,  
 
