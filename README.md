@@ -2,12 +2,12 @@
 
 
 Habilidades:
-- JavaScript 
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' height='30'>
-- ReactJs    
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt='react' height='30'>
-- Redux      
-<img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg' alt='redux' height='30'>
+- JavaScript:
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' height='30'>
+- ReactJs:  
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg' alt='react' height='30'>
+- Redux:      
+            <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg' alt='redux' height='30'>
 - NodeJs     
 <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg' alt='node' height='30'>
 - Css
