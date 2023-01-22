@@ -7,7 +7,7 @@ Habilidades:
 - Redux
 - NodeJs
 - Express
-- PostgreSQL [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)' alt='github' height='40'>](https://github.com/m6nuel)]
+- PostgreSQL [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>]
 - Sequelize
 - 🌱 Estoy aprendiendo **kotlin**, **java**,  
 
