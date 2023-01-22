@@ -1,8 +1,14 @@
 ### Hola 👋, Soy Jesus Manuel Delgado Sanchez
-#### Soy Full Stack Developer
 
-Habilidades: REACT / JavaScript / HTML / CSS / NodeJs
 
+Habilidades:
+- JavaScript
+- ReactJs
+- Redux
+- NodeJs
+- Express
+- PostgreSQL
+- Sequelize
 - 🌱 Estoy aprendiendo **kotlin**, **java**,  
 
 
